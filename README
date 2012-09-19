@@ -1,0 +1,4 @@
+This is a simple python file where normal smtplib module is used for sending a comic strip got from 
+www.xkcd.com
+
+Here the comic is sent as a paert of the email message and google smtp server is used.
